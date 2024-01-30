@@ -44,6 +44,7 @@ This project demonstrates the capability of GANs to model complex distributions 
 
 ### Sources
 DateSet - https://www.kaggle.com/code/yldzburhan/predict-wine-quality-factors-lgbm-xgb
+
 Software used - https://www.singlestore.com/spaces/
 
 ---
