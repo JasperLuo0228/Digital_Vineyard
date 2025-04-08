@@ -1,4 +1,4 @@
-# Digital_Vineyard:Generative Adversarial Network (GAN) Modeling and Feature Analysis Based on Red Wine Quality Dataset
+# Digital Vineyard: Generative Adversarial Network (GAN) Modeling and Feature Analysis Based on Red Wine Quality Dataset
 ## Overview
 
 This repository contains a machine learning project focused on the application of a Generative Adversarial Network (GAN) to the domain of red wine quality assessment. The code utilizes TensorFlow and Keras for constructing and training the GAN model, which comprises two main components: a generator and a discriminator.
